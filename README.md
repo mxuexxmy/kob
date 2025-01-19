@@ -1,6 +1,13 @@
 # kob
 一个伟大的史诗级巨著
 
+## 项目信息
+项目来源：https://www.acwing.com/activity/content/1877/
+代码来源：https://git.acwing.com/yxc/kob
+
+## 项目亮点
+1. 对接懒猫微服应用
+
 ## 项目设计
 
 名称：King Of Bots，简称KOB
