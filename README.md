@@ -12,9 +12,9 @@
 
 注：
 
-1. 会根据自己的经验对代码进行调整，为了练习技术，后期会引入一些新的技术或者调整架构，我是 **AcWing**  （https://www.acwing.com/）的用户，并且是 **SpringBoot框架课** 的（https://www.acwing.com/activity/content/1877/）学生，用户名 **玄兴梦影**（https://www.acwing.com/user/myspace/index/8215/），如果造成侵权，请联系我。
+1. 会根据自己的经验对代码进行调整，为了练习技术，后期会引入一些新的技术或者调整架构，我是 [AcWing](https://www.acwing.com/) 的用户，并且是 [SpringBoot框架课](https://www.acwing.com/activity/content/1877/) 的学生，用户名 [玄兴梦影](https://www.acwing.com/user/myspace/index/8215/) ，如果造成侵权，请联系我。
 
-2. 如果你想学习相关的技术，请移步 [https://www.acwing.com/](https://www.acwing.com/) 。
+2. 如果你想学习相关的技术，请移步 [AcWing](https://www.acwing.com/) 。
 
 ## 项目亮点
 
